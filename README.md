@@ -5,5 +5,4 @@
 * uma lista
     + um *item*
     + outro **item**
-    
-[Link de exemplo](https://www.facebook.com)
+    + [Link de exemplo](https://www.facebook.com)
